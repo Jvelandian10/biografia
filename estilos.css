@@ -1,0 +1,59 @@
+.contenedor{
+
+    display: flex;
+    margin: 0 auto;
+    width: 80%;   
+
+}
+
+.nombre {
+    width: 20%;
+    background-color: rgb(248, 248, 248);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    margin: 10px;
+    padding: 10px;
+    position: ;
+}
+
+.rest {
+    width: 30%;
+    background-color: rgb(248, 248, 248);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+.bioo{
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+   
+}
+
+.corre{
+    width: 40%;
+    background-color:aliceblue);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.hab{
+    width: 80%;
+    background-color:aliceblue);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.hob{
+    width: 80%;
+    background-color:aliceblue);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.img{
+    width: 30%;
+    background-color:aliceblue);
+    border: 1px solid black; 
+}
